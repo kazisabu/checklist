@@ -1,2 +1,9 @@
-# checklist
-I would call it Check List of All Things
+# Checklist
+
+Use this simple checklist for your tasks:
+
+- [ ] Task 1
+- [ ] Task 2
+- [ ] Task 3
+- [ ] Task 4
+- [ ] Task 5
